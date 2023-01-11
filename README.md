@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋🏽 Olá, meu nome é Bruno Lucas!<br><br>💻 Sou fascinado por tecnologia e programação; Gosto de sempre <br>atualizar meus conhecimentos e aplicar-los na prática.<br><br>👩🏽‍💻Atualmente sou estudante de Análise e Desenvolvimento de Sistemas <br>e atuo como estagiário de Marketing Cloud ultilizando HTML,MySQL,CSS e <br>linguagens como JavaScript. Possuo também conhecimento em C#.
+<br>👋🏽 Olá, meu nome é Bruno Lucas!<br><br>💻 Sou fascinado por tecnologia e programação; Gosto de sempre <br>atualizar meus conhecimentos e aplicar-los na prática.<br><br>👩🏽‍💻Atualmente sou estudante de Análise e Desenvolvimento de Sistemas <br>e atuo como estagiário de Marketing Cloud ultilizando HTML ,MySQL ,CSS e <br>linguagens como JavaScript. Possuo também conhecimento em C#.
 
 
 ## 🌐 Socials:
